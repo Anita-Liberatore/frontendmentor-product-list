@@ -1,11 +1,10 @@
-const API_URL = './src/data.json'
+const API_URL = `${import.meta.env.BASE_URL}data.json`
 
 const fetchProducts = async () => {
   try {
     const res = await fetch(API_URL)
     if (!res.ok) throw new Error('Errore nel fetch dei prodotti')
-    const data = await res.json()
-    return data
+    return await res.json()
   } catch (err) {
     console.error('fetchProducts error:', err)
     return []
