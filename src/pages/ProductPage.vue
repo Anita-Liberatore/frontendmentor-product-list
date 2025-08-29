@@ -1,9 +1,7 @@
 <script setup>
 import { ref, watch } from 'vue'
 import useCart from '../composables/useCart'
-
-/* opzionale: tieni pure l'icona carrello per lo stato iniziale */
-import iconAddToCart from '/Users/anitaliberatore/Projects/frontementor-challenge/product-list/src/assets/images/icon-add-to-cart.svg'
+import iconAddToCart from '../assets/images/icon-add-to-cart.svg'
 
 const props = defineProps({
   id: [String, Number],
