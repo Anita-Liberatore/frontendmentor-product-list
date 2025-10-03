@@ -62,7 +62,7 @@ Il progetto è pubblicato su Vercel 👉 Live demo (<-- Inserisci qui il tuo lin
 Bash
 
 # Clona il repo
-git clone [Github]((https://github.com/Anita-Liberatore/frontendmentor-product-list.git)
+git clone [Github](https://github.com/Anita-Liberatore/frontendmentor-product-list.git)
 
 # Entra nella cartella
 cd product-list-cart
