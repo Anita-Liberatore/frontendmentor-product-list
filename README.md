@@ -56,7 +56,7 @@ Usare <teleport> per modali accessibili.
 Tailwind come strumento rapido per prototipare e rispettare i design pixel-perfect.
 
 🚀 Deploy
-Il progetto è pubblicato su Vercel 👉 Live demo (<-- Inserisci qui il tuo link!)
+Il progetto è pubblicato su Vercel 👉 Live demo [DEMO](https://frontendmentor-product-list.vercel.app/)
 
 📝 Istruzioni per l’avvio in locale
 Bash
