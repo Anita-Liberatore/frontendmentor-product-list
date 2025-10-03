@@ -58,9 +58,6 @@ Tailwind come strumento rapido per prototipare e rispettare i design pixel-perfe
 🚀 Deploy
 Il progetto è pubblicato su Vercel 👉 Live demo [DEMO](https://frontendmentor-product-list.vercel.app/)
 
-📝 Istruzioni per l’avvio in locale
-Bash
-
 # Clona il repo
 git clone [Github](https://github.com/Anita-Liberatore/frontendmentor-product-list.git)
 
